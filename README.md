@@ -1,8 +1,7 @@
 ## 👋 Hola, soy Adrian Novoa
 
 Data Analyst Jr con background en negocios, enfocado en análisis exploratorio y visualización de datos para transformar información en decisiones comerciales con impacto real.
-
-Vengo del mundo de la administración, ventas y gestión de pequeños negocios, lo que me permite analizar datos con una visión orientada al cliente, los objetivos operativos y la toma de decisiones.
+Vengo del mundo de la administración, ventas y gestión de pequeños negocios, lo que me permite analizar datos con una visión orientada al cliente, objetivos operativos y toma de decisiones.
 
 ---
 
